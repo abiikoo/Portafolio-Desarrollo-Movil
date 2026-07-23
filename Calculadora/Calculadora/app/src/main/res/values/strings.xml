@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Calculadora</string>
+    <string name="title_calculadora">CALCULADORA</string>
+    <string name="label_num1">Num 1</string>
+    <string name="label_num2">Num 2</string>
+    <string name="label_resultado">Resultado</string>
+    <string name="btn_sumar">SUMAR</string>
+    <string name="error_only_numbers">❌ Solo se permiten números</string>
+    <string name="error_both_empty">❌ Debes ingresar ambos números</string>
+    <string name="error_num1_empty">❌ El campo Num 1 está vacío</string>
+    <string name="error_num2_empty">❌ El campo Num 2 está vacío</string>
+    <string name="error_invalid_num1">❌ Num 1 no es un número válido</string>
+    <string name="error_invalid_num2">❌ Num 2 no es un número válido</string>
+    <string name="hint_zero">0</string>
+    <string name="hint_dash">—</string>
+    <string name="resultado_format">%s</string>
+</resources>
